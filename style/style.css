@@ -1,0 +1,135 @@
+#navbar {
+   
+    position: relative;
+    padding: 1px;
+    width: 200px;
+    height: 100px;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+    display: inline-block;
+    margin-left: -10px;
+    
+}
+
+#title-center {
+    text-align: center;
+    color: rgb(14, 9, 9);
+    border: hidden;
+    display: block;
+    font-size: 30px;
+    margin-top: 10px;    
+}
+.image {
+    text-align: right;
+    margin-top: -20px;
+    display: block;
+
+
+}
+
+#image-coils {
+  position: absolute;
+  top: 8px;
+  right: 10px;
+  font-size: 10px;
+  display: inline-block;
+}
+#life-education {
+    font-size: 19px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#text-center-education {
+    text-align: center;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#main-page-education {
+    text-align: center;
+    font-size: 14px;
+    
+
+}
+
+#image-education {
+    text-align: right;
+    margin-top: -150px;
+}
+
+
+#main-page {
+  color: red;
+  font-size: 15px;
+   margin-top: -270px;
+  top: 21px;
+  right: -370px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  position: relative;
+  width: 300px;
+}
+
+#container-co {
+    color: red;
+    font-size: 15px;
+    top: 21px;
+    right: -370px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    position: relative;
+    width: 300px;
+    
+
+}
+
+body {
+    background-color: #ccc;
+    background-image: url("/img/back-image3.jpeg");
+}
+
+#literary {
+    text-align: center;
+    font-size: 18px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*------------------ Tabele----------------------*/
+
+
+
+#table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: 0 auto;
+  }
+   
+  th {
+    padding: 18px;
+  }
+   
+  td {
+    padding: 12px;
+  }
+   
+  th,
+  td {
+    border: solid 1px #ff0000;
+  }
+   
+  tr {
+    background-color: #f1eded;
+  }
+   
+  tr.even {
+    background-color: #fcfcfc;
+  }
+   
+  #heading {
+    background-color: rgb(228, 126, 223);
+    color: white;
+  }
+    
+
+
+
